@@ -1,0 +1,30 @@
+{
+  "name": "sublate",
+  "version": "1.0.0",
+  "description": "change tracking tool",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbilokonsky/sublate.git"
+  },
+  "keywords": [
+    "delta",
+    "state",
+    "change-tracking",
+    "temporal",
+    "data"
+  ],
+  "author": "mykola bilokonsky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbilokonsky/sublate/issues"
+  },
+  "homepage": "https://github.com/mbilokonsky/sublate#readme",
+  "dependencies": {
+    "jest": "^24.1.0",
+    "uuid": "^3.3.2"
+  }
+}
